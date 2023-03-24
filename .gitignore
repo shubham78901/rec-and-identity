@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+artifacts/
+.env
+scrypt.index.json
+.eslintcache
